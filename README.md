@@ -23,6 +23,8 @@ This skill is for creators who have a line of thinking in their head—but once 
 3. Reorganize and layout. If something still needs material, search, show sources and short excerpts, and insert only after you approve.
 4. The output file contains only the original draft plus search results you approved. Gaps stay `TBD`. Always save as a new file—never overwrite the source.
 
+On a second pass, keep the intents you already confirmed and ask only about new or changed content. Never overwrite the source or a previous organized file—save a new dated file.
+
 ### Checklist
 
 1. Read the named file.

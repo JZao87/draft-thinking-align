@@ -4,6 +4,14 @@
 
 "Here's a first pass at your thinking nodes—anything missing or off?"
 
+## Second pass (re-organize)
+
+After splitting inherited vs new/changed:
+
+"This looks like a second pass. I'll keep the confirmed intents from last time and only ask about the new parts. Here's the new/changed node list—anything missing or off?"
+
+If the user says only focus on new content, do not re-ask inherited marks. Start with the first new intent mark.
+
 ## Intent marks
 
 - Comment: "The note says '…'. Apply that to the body?"

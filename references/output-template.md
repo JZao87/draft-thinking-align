@@ -31,3 +31,13 @@ If the source was `.docx`, you may save `.docx` instead; keep the same stem.
 - Do not invent section titles the user did not confirm.
 - Keep original wording whenever possible.
 - Every Organized bullet needs a source if it came from search.
+
+## Second pass
+
+When this run is a re-organize, add under TBD (or a short "Confirmations" section):
+
+- Inherited (kept from last pass): …
+- Confirmed this pass: …
+- Still TBD: …
+
+Still save a new dated file; do not overwrite the source or the previous organized file.
